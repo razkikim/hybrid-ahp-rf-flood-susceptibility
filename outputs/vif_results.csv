@@ -1,0 +1,9 @@
+Factor,VIF,Tolerance,Status
+elevation,2.418,0.4135,OK
+slope,1.569,0.6372,OK
+distance_to_river,1.4,0.7145,OK
+distance_to_coast,2.292,0.4362,OK
+land_cover,2.329,0.4294,OK
+soil_type,1.559,0.6415,OK
+ndvi,1.852,0.54,OK
+rainfall,1.608,0.6217,OK

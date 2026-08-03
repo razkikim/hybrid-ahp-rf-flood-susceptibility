@@ -1,0 +1,9 @@
+Parameter,Weight,Percentage
+Rainfall,0.2947,29.47%
+Distance to River,0.1918,19.18%
+Elevation,0.1325,13.25%
+Distance to Coast,0.1204,12.04%
+Land Cover,0.1018,10.18%
+Slope,0.0688,6.88%
+NDVI,0.0555,5.55%
+Soil Type,0.0345,3.45%

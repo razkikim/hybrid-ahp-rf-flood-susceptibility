@@ -1,0 +1,32 @@
+{
+  "features": [
+    "elevation",
+    "slope",
+    "distance_to_river",
+    "distance_to_coast",
+    "land_cover",
+    "soil_type",
+    "ndvi",
+    "rainfall"
+  ],
+  "n_samples": 600,
+  "n_flood": 300,
+  "n_nonflood": 300,
+  "cv_metrics": {
+    "AUC_mean": 0.9188,
+    "AUC_std": 0.0286,
+    "Accuracy_mean": 0.8429,
+    "Kappa_mean": 0.6857,
+    "TSS_mean": 0.6857
+  },
+  "test_metrics": {
+    "AUC": 0.9167,
+    "Accuracy": 0.8111,
+    "Kappa": 0.6222,
+    "TSS": 0.6222
+  },
+  "hyperparameters": {
+    "n_estimators": 200,
+    "max_depth": 6
+  }
+}

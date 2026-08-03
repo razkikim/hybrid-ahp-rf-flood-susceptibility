@@ -1,0 +1,6 @@
+,Random Forest,XGBoost,SVM
+AUC-ROC,0.917,0.913,0.887
+Accuracy,0.811,0.811,0.811
+Kappa,0.622,0.622,0.622
+F1-Score,0.813,0.815,0.815
+TSS,0.622,0.622,0.622

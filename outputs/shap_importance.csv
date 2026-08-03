@@ -1,0 +1,9 @@
+Feature,Mean|SHAP|
+rainfall,0.1268
+slope,0.0932
+distance_to_river,0.0482
+elevation,0.0414
+distance_to_coast,0.0399
+land_cover,0.0398
+soil_type,0.0294
+ndvi,0.0229

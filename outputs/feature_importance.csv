@@ -1,0 +1,9 @@
+Feature,Importance
+rainfall,0.2512
+slope,0.1763
+distance_to_river,0.1503
+distance_to_coast,0.1342
+elevation,0.125
+ndvi,0.0742
+land_cover,0.0546
+soil_type,0.0341

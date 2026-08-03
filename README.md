@@ -7,6 +7,7 @@
 ### Code Availability
 This repository contains the analysis code for the paper "A Hybrid AHP and Ensemble Machine Learning Approach for Flood Susceptibility Assessment in Tapanuli Tengah Regency, Indonesia" by Sandri Erfani and Razki Alfatah Khairu Mahli.
 
+```
 tapteng-flood-susceptibility/
 ├── README.md                         
 ├── requirements.txt
@@ -36,6 +37,7 @@ tapteng-flood-susceptibility/
     ├── feature_importance.csv        
     ├── model_metrics.csv             
     └── spatial_agreement.csv
+```
 
 ### Requirements
 - Python >= 3.9

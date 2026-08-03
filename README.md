@@ -1,7 +1,7 @@
 # Flood Susceptibility Mapping: A Hybrid AHP and Ensemble Machine Learning Approach
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
+[![DOI](https://doi.org/10.5281/zenodo.21765740.svg)](https://doi.org/10.5281/zenodo.21765740)
 ## Tapanuli Tengah Regency, Indonesia
 
 ### Code Availability

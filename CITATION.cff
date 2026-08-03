@@ -2,14 +2,16 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
 title: "Flood Susceptibility Mapping: A Hybrid AHP and Ensemble ML Approach"
+version: "v1.0.0"
+date-released: "2026-08-03"
 authors:
   - family-names: Erfani
     given-names: Sandri
     orcid: "https://orcid.org/0009-0006-7646-4911"
   - family-names: Mahli
     given-names: Razki Alfatah Khairu
-    orcid: "https://orcid.org/0009-0008-99676-7842"
-repository-code: "https://github.com/razkikim/tapteng-flood-susceptibility"
+    orcid: "https://orcid.org/0009-0008-9967-7842"
+repository-code: "https://github.com/razkikim/hybrid-ahp-rf-flood-susceptibility"
 license: MIT
 preferred-citation:
   type: article
@@ -17,5 +19,5 @@ preferred-citation:
   authors:
     - family-names: Erfani
       given-names: Sandri
-    - family-names: Khairu Mahli
+    - family-names: Mahli
       given-names: Razki Alfatah
